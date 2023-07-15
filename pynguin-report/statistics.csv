@@ -7,5 +7,15 @@
 
 "tree","0.9722222222222222"
 "tree_typed","1.0"
+
 "datastructures","0.9821428571428571"
 "datastructures_typed","0.9821428571428571"
+
+"lorem_ipsum","0.9523809523809523"
+"lorem_ipsum_typed","0.9523809523809523"
+
+"module_loading","0.3548387096774194"
+"module_loading_typed","0.3870967741935484"
+
+"paginator","0.8235294117647058"
+"paginator_typed","0.8823529411764706"
